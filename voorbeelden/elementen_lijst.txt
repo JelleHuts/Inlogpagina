@@ -1,0 +1,7 @@
+1. inputveld voor email of gebruikersnaam
+2. inputveld voor een wachtwoord
+3. een submitknop
+4. een error als de velden leeg zijn
+5. een placeholder
+6. bij elke site staat het formulier in het midden
+7. een "remember me" knop
